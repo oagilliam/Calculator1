@@ -1,4 +1,5 @@
-#Created: 5/22/2022
+#Created by: Olivia G.
+#Completion date: 5/22/2022
 #Prompt: Make a calculator that adds two entered numbers, then displays the result.
 
 
